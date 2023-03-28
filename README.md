@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">DevOps Engineer from Canada. This project is to showcase my ability to write IaC to set up a static site on S3 using terraform</h3>
+<h3 align="center">The Cloud Resume Challenge</h3>
 
-- 🔭 I’m currently working on [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+https://cloudresumechallenge.dev/docs/the-challenge/aws/
 
-- 🌱 I’m currently learning **terraform, docker, kubernetes, python**
+### Description
 
-- 💬 Ask me about **AWS**
+Welcome to my rendition of The Cloud Resume Challenge. Here you will find all the necessary files to configure and set up a static site on S3 using terraform. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mike-nhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike-nhan" height="30" width="40" /></a>
-</p>
+### Instructions
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+1. Install Terraform
+2. Update variables etc. to match your needs
+3. terraform init
+4. terraform plan
+5. terraform apply
+
+#### Note: This is a work in progress, so files will be updated as I continue on this journey of completing the challenge
